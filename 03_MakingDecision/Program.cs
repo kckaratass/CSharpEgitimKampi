@@ -309,41 +309,41 @@ namespace _03_MakingDecision
 
             #region Switch - Case - Hesap Makinesi -Uygulama
 
-            int number1, number2, result;
-            char symbol;
+            //int number1, number2, result;
+            //char symbol;
 
-            Console.Write("Lütfen 1. sayıyı giriniz: ");
-            number1 = int.Parse(Console.ReadLine());
+            //Console.Write("Lütfen 1. sayıyı giriniz: ");
+            //number1 = int.Parse(Console.ReadLine());
 
-            Console.Write("Lütfen 2. sayıyı giriniz: ");
-            number2 = int.Parse(Console.ReadLine());
+            //Console.Write("Lütfen 2. sayıyı giriniz: ");
+            //number2 = int.Parse(Console.ReadLine());
 
-            Console.Write("Lütfen işlem sembolünü giriniz: ");
-            symbol = char.Parse(Console.ReadLine());
+            //Console.Write("Lütfen işlem sembolünü giriniz: ");
+            //symbol = char.Parse(Console.ReadLine());
 
             
-            switch (symbol)
-            {
-                case '+':
-                    result = number1 + number2;
-                    Console.WriteLine("Toplama İşlemi Sonucu: " + result);
-                    break;
+            //switch (symbol)
+            //{
+            //    case '+':
+            //        result = number1 + number2;
+            //        Console.WriteLine("Toplama İşlemi Sonucu: " + result);
+            //        break;
 
-                case '-':
-                    result = number1 - number2;
-                    Console.WriteLine("Çıkarma İşlemi Sonucu: " + result);
-                    break;
+            //    case '-':
+            //        result = number1 - number2;
+            //        Console.WriteLine("Çıkarma İşlemi Sonucu: " + result);
+            //        break;
 
-                case '*':
-                    result = number1 * number2;
-                    Console.WriteLine("Çarpma İşlemi Sonucu: " + result);
-                    break;
+            //    case '*':
+            //        result = number1 * number2;
+            //        Console.WriteLine("Çarpma İşlemi Sonucu: " + result);
+            //        break;
 
-                case '/':
-                    result = number1 / number2;
-                    Console.WriteLine("Bölme İşlemi Sonucu: " + result);
-                    break;
-            }
+            //    case '/':
+            //        result = number1 / number2;
+            //        Console.WriteLine("Bölme İşlemi Sonucu: " + result);
+            //        break;
+            //}
             
             #endregion
 
