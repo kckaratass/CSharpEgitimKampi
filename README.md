@@ -33,7 +33,8 @@ Bu projede veritabanı bağlantısı kurarak, tablolar arasından seçim yapabil
 Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek veritabanı ile etkileşimde bulundum. SQL bağlantısını kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım. Bu süreçte, SQL komutlarıyla veritabanına veri kaydetme ve sorgulama konularında deneyim kazandım. Ayrıca, ürün bilgilerini düzenleyerek daha dinamik bir yapı oluşturmayı öğrendim.
 
 ## 🌟 Proje 11: EfTravel İstatistik Paneli
-![proje](https://github.com/user-attachments/assets/21885c23-1b98-47bd-9727-980321ec2b2c)
+
+![Ekran görüntüsü 2025-03-15 173219](https://github.com/user-attachments/assets/9fbc66ae-d65d-4ec5-a9e1-d6747503d402)
 
 Bu projede, Entity Framework kullanarak bir seyahat veritabanından bilgi çekip görselleştiren bir istatistik paneli geliştirdim. Proje, Windows Forms üzerinde kullanıcıya canlı olarak çeşitli istatistikler sunmayı hedefledi. 💻
 
