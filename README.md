@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-03-15 173219](https://github.com/user-attachments/assets/9b841a6b-339d-4ee0-a180-a5670e00e71b)# 🚀 C# EĞİTİM KAMPI PROJELERİ
+# 🚀 C# EĞİTİM KAMPI PROJELERİ
 
 Bu repo, Murat Yücedağ'ın eğitmenliğinde devam ettiğim C# Eğitim Kampı süresince ilk 8 projeyi içermektedir. "Her bir proje, belirli programlama kavramlarını anlamama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye ait teknik detayları bulabilirsiniz:"
 
